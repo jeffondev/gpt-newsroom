@@ -1,13 +1,12 @@
 # GPT Newsroom
 
-AI-powered news summarization platform that automatically scrapes and summarizes IT/Science news using OpenAI GPT.
+OpenAI GPT를 사용하여 IT/과학 뉴스를 자동으로 스크랩하고 요약하는 AI 기반 뉴스 요약 플랫폼입니다.
 
 ## Features
 
-- 🔍 **News Scraping**: Automatically scrapes IT/Science news from Naver
-- 🤖 **AI Summarization**: Uses OpenAI GPT to generate concise summaries
-- 📱 **Modern UI**: Clean and responsive interface built with Next.js and Tailwind CSS
-- ⚡ **Real-time**: Get the latest news with AI-powered summaries
+- 🔍 **뉴스 스크래핑**: 네이버의 IT/과학 뉴스를 자동으로 스크랩합니다
+- 🤖 **AI 요약**: OpenAI GPT를 사용하여 간결한 요약을 생성합니다
+- ⚡ **Real-time**: AI 기반 요약으로 최신 뉴스를 제공합니다.
 
 ## Getting Started
 
